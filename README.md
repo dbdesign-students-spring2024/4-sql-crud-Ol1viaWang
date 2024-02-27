@@ -106,7 +106,7 @@ SELECT * FROM restaurants WHERE strftime('%H:%M', 'now') BETWEEN Opening_hours A
 | 27            | Thai     | Cha Long  | Expensive  | Lower East Side  | 15:29         | 23:51         | 1              | False         |
 | 33            | Korean   | Nemesis   | Medium     | Lower East Side  | 15:02         | 7:21          | 1              | False         |
 
-There are 208 restaurants that are open now. For simplicity, I only showed the first 5 rows.
+There are 208 restaurants that are open now. For simplicity, I only show the first 5 rows.
 
 4. Leave a review for a restaurant (pick Restaurant with id 1); note that leaving a review has no automatic effect on the average rating of the restaurant.
 
