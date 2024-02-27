@@ -70,7 +70,7 @@ SELECT * FROM restaurants WHERE Price_tier = 'Cheap' AND Neighborhood = 'Soho';
 | 147           | French   | ABC Kitchen   | Cheap      | Soho         | 21:22         | 18:46         | 2              | True          |
 | 159           | American | Mareluna      | Cheap      | Soho         | 17:09         | 5:55          | 2              | True          |
     
-There are 25 cheap restaurants in Soho. For simplicity, I only showed the first 5 rows.
+There are 25 cheap restaurants in Soho. For simplicity, I only show the first 5 rows.
 
 2. Find all restaurants in a particular genre (pick Chinese) with 3 stars or more, ordered by the number of stars in descending order.
 
@@ -88,7 +88,7 @@ SELECT * FROM restaurants WHERE category = 'Chinese' AND Average_rating >= 3 ORD
 | 131           | Chinese  | Golden Wuish    | Medium     | Gramercy           | 11:11         | 17:19         | 5              | True          |
 | 178           | Chinese  | The Modern      | Medium     | Little Italy       | 14:38         | 9:54          | 5              | True          |
 
-There are 71 Chinese restaurants with 3 stars or more. For simplicity, I only showed the first 5 rows.
+There are 71 Chinese restaurants with 3 stars or more. For simplicity, I only show the first 5 rows.
 
 3. Find all restaurants that are open now.
 
@@ -166,17 +166,17 @@ create table users (
 ### Create posts table (messages and stories)
 
 **Messages**:
-    - Messages consist of text only.
-    - Messages are sent from one user to another specific user. 
-    - Messages become invisible immediately after view and don't show up in the app thereafter.
-    - Messages are never actually deleted from the database table, even when invisible to the user (the social media company 
-    that produces the app keeps 'deleted' content in its database for future data harvesting, monetization purposes, and more.)
+- Messages consist of text only.
+- Messages are sent from one user to another specific user. 
+- Messages become invisible immediately after view and don't show up in the app thereafter.
+- Messages are never actually deleted from the database table, even when invisible to the user (the social media company 
+that produces the app keeps 'deleted' content in its database for future data harvesting, monetization purposes, and more.)
 
 **Stories**
-    - Stories consist of text only.
-    - Stories are public and every user can see them.
-    - Stories become invisible 24 hours after posting and don't show up in the app thereafter.
-    - Stories are never deleted from the database table, even when invisible to the user.
+- Stories consist of text only.
+- Stories are public and every user can see them.
+- Stories become invisible 24 hours after posting and don't show up in the app thereafter.
+- Stories are never deleted from the database table, even when invisible to the user.
 
 ```sql
 create table posts (
@@ -227,8 +227,8 @@ INSERT INTO posts (User_id, Content, Type_is, Visible, Created_at) VALUES (3, 'N
 Since my posts.csv use MM/DD/YY to represent the created date, which can't be read correctly by my SQL, I have to convert MM/DD/YY to YYYY-MM-DD firstly. The SQL reads the **Created_at** column as a string, so I can't directly ORDER BY **Created_at**. 
 - The command -- '20' || substr(Created_at, -2) -- takes the last two characters of the year value (For example, for date 2/26/24, I take 24 and prefix it with 20 to create 2024)
 - The command -- substr(Created_at, 1, instr(Created_at, '/') - 1) -- gets the month value through reading from the first character to the first slash (For example, for date 2/26/24, I read from 2 and stop at the first slash, obtaining 2)
-- The command -- '0' || -- prefixes the month value with 0 ahead to make sure that the month value has two digits
-- The command -- substr(..., -2) -- guarantees that I always take the last two digits of the month value if there are three characters after adding 0 before
+- The command -- '0' || -- prefixes the month value with 0 ahead to make sure that the month value has two digits (For example, if the month value is 2, then it becomes 02)
+- The command -- substr(..., -2) -- guarantees that I always take the last two digits of the month value if there are three characters after adding 0 before (For example, if the month value is 12, then it becomes 012, which is incorrect because I only want 12)
 - The command -- instr(Created_at, '/') + 1 -- gets the day value through reading from the first slash 
 - The command -- instr(substr(Created_at, instr(Created_at, '/') + 1), '/') - 1 -- lets me stop at the second slash (For example, for date 2/26/24, I read from 2 and stop at the second slash, obtaining 26)
 - The command -- '0' || -- prefixes the day value with 0 ahead to make sure that the day value has two digits 
