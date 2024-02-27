@@ -1,0 +1,1001 @@
+Restaurant_id,Category,Name,Price_tier,Neighborhood,Opening_hours,Closing_hours,Average_rating,Good_for_kids
+1,French,Ruby's,Cheap,Midtown East,8:51,17:06,2,True
+2,Mexican,Che Li,Expensive,Little Italy,3:51,3:24,3,False
+3,Mexican,Palma,Expensive,Greenwich Village,8:54,5:49,2,False
+4,French,Raku,Expensive,Chelsea,12:34,23:14,4,False
+5,Japanese,Dudley's,Medium,Lower East Side,2:31,17:18,1,False
+6,American,Au Cheval,Cheap,Tribeca,10:21,1:04,3,True
+7,Japanese,Ruby's,Expensive,Midtown East,7:15,8:56,5,True
+8,Japanese,Au Cheval,Medium,Lower East Side,12:36,15:53,5,False
+9,Mexican,ABC Kitchen,Cheap,East Village,3:17,22:38,1,True
+10,French,Mareluna,Medium,Financial District,21:10,3:07,1,False
+11,Thai,Palma,Medium,Upper East Side,21:39,12:09,2,False
+12,Mexican,ABC Kitchen,Medium,Soho,19:03,21:43,2,False
+13,American,Ippudo,Expensive,Upper West Side,2:46,5:59,1,False
+14,Chinese,Five Guys,Expensive,Gramercy,3:58,0:57,4,True
+15,Thai,Cha Long,Cheap,Upper East Side,16:58,1:32,4,True
+16,Thai,Fish Cheeks,Cheap,Chinatown,5:08,11:09,2,True
+17,Mexican,Konbon,Expensive,Hell's Kitchen,4:50,21:25,5,True
+18,Chinese,Sadelle's,Cheap,East Village,13:13,23:48,3,True
+19,Japanese,Sonnyboy,Expensive,Tribeca,18:16,19:30,1,False
+20,Korean,Take 31,Cheap,Tribeca,9:36,15:38,1,False
+21,Korean,Fish Cheeks,Expensive,Chelsea,2:21,23:43,5,False
+22,Thai,Ruby's,Expensive,Greenwich Village,12:38,13:57,4,False
+23,American,Cha Long,Medium,Tribeca,18:05,12:14,5,False
+24,Korean,Sadelle's,Medium,Upper West Side,20:32,20:19,4,True
+25,Korean,Chipotle,Medium,Tribeca,19:38,2:32,3,True
+26,Chinese,Chipotle,Expensive,Tribeca,5:09,20:49,2,False
+27,Thai,Cha Long,Expensive,Lower East Side,15:29,23:51,1,False
+28,Korean,Take 31,Expensive,Gramercy,17:57,21:37,2,True
+29,Chinese,Torrisi,Expensive,Lower East Side,4:58,3:14,3,False
+30,French,Ippudo,Expensive,Greenwich Village,0:09,10:10,5,True
+31,Mexican,Tatiana,Cheap,Chelsea,4:23,15:13,3,False
+32,Thai,Ruby's,Medium,Upper West Side,23:54,20:26,1,False
+33,Korean,Nemesis,Medium,Lower East Side,15:02,7:21,1,False
+34,Thai,Au Cheval,Expensive,Gramercy,4:46,18:56,3,True
+35,Italian,Chipotle,Expensive,Chelsea,20:25,13:31,2,True
+36,Chinese,The Modern,Cheap,Little Italy,6:07,14:56,2,False
+37,Italian,Ruby's,Cheap,Soho,1:20,10:28,1,True
+38,Japanese,Torrisi,Cheap,Upper West Side,13:31,15:52,1,True
+39,Chinese,Gramercy Tavern,Expensive,Gramercy,13:58,4:13,1,True
+40,Italian,Palma,Medium,Little Italy,4:28,19:28,4,False
+41,American,Take 31,Medium,Hell's Kitchen,15:07,22:29,1,False
+42,French,The Modern,Medium,Upper West Side,19:42,18:23,2,False
+43,Japanese,Torrisi,Cheap,Upper West Side,11:15,0:53,4,True
+44,Italian,Tatiana,Medium,Upper West Side,11:32,15:26,5,False
+45,Mexican,Raku,Expensive,Little Italy,2:51,6:16,1,False
+46,Thai,Konbon,Cheap,Financial District,23:19,18:31,3,True
+47,Korean,Cha Long,Cheap,Midtown East,21:31,3:06,5,False
+48,Japanese,Tatiana,Cheap,Financial District,16:54,13:48,1,True
+49,Italian,Chipotle,Cheap,Soho,20:29,23:50,1,True
+50,Japanese,Raku,Expensive,Chelsea,1:11,0:02,1,True
+51,American,Mareluna,Expensive,Upper East Side,14:38,21:57,4,False
+52,French,Raku,Cheap,Greenwich Village,17:04,5:46,5,True
+53,French,Cha Long,Cheap,Tribeca,6:58,6:54,5,True
+54,American,Five Guys,Expensive,Tribeca,13:30,17:27,1,False
+55,American,Gramercy Tavern,Cheap,Gramercy,4:39,21:07,5,True
+56,Italian,Torrisi,Cheap,Upper West Side,0:56,7:33,2,False
+57,Chinese,Golden Wuish,Expensive,Little Italy,4:36,23:50,4,True
+58,Chinese,Sonnyboy,Medium,East Village,11:48,17:50,1,False
+59,Korean,Take 31,Medium,Tribeca,18:36,6:26,1,False
+60,Chinese,Ippudo,Cheap,Soho,5:24,11:56,1,False
+61,American,Konbon,Expensive,Little Italy,9:43,14:26,5,False
+62,Chinese,Sadelle's,Expensive,Upper West Side,8:14,15:51,3,False
+63,American,Tatiana,Medium,Little Italy,10:14,17:40,1,True
+64,American,Cha Long,Medium,Lower East Side,8:50,20:33,3,True
+65,French,Au Cheval,Cheap,Little Italy,21:06,19:02,3,False
+66,American,Fish Cheeks,Cheap,Lower East Side,9:32,10:05,2,False
+67,Korean,Ippudo,Medium,Little Italy,4:21,21:36,1,True
+68,Chinese,Up Thai,Cheap,Gramercy,13:14,23:04,2,False
+69,Italian,Ippudo,Cheap,Little Italy,19:58,16:44,3,False
+70,Italian,Tatiana,Cheap,Chelsea,6:00,6:42,3,True
+71,Japanese,Nemesis,Expensive,Gramercy,20:32,12:23,1,False
+72,Thai,Five Guys,Cheap,East Village,7:18,17:59,4,True
+73,Korean,Che Li,Cheap,Midtown East,0:59,0:06,4,False
+74,Chinese,Take 31,Expensive,Upper East Side,16:46,4:42,2,True
+75,American,Dig,Medium,Upper East Side,21:03,12:58,1,True
+76,Thai,Up Thai,Cheap,Financial District,3:10,20:06,4,True
+77,American,Mamo,Expensive,Lower East Side,19:53,4:37,4,True
+78,American,Mareluna,Medium,Gramercy,10:01,6:27,3,True
+79,American,Ruby's,Medium,Little Italy,16:11,5:10,4,False
+80,Chinese,Mamo,Medium,Chinatown,22:02,16:32,3,True
+81,Korean,Torrisi,Cheap,Gramercy,3:03,23:33,3,True
+82,Mexican,Raku,Expensive,Upper East Side,19:18,14:48,3,False
+83,American,Golden Wuish,Medium,Lower East Side,3:03,8:05,5,False
+84,Italian,Raku,Expensive,Midtown East,4:44,22:19,1,True
+85,Italian,Gramercy Tavern,Medium,Greenwich Village,0:12,10:54,1,True
+86,Mexican,Gramercy Tavern,Expensive,Upper East Side,21:25,22:25,5,False
+87,American,Sonnyboy,Cheap,Little Italy,21:49,3:25,3,True
+88,Italian,Five Guys,Cheap,Little Italy,10:59,11:09,2,True
+89,French,ABC Kitchen,Medium,Little Italy,19:07,19:41,4,False
+90,American,Carbone,Cheap,Upper West Side,10:09,8:25,2,False
+91,Chinese,The Modern,Expensive,Chinatown,15:22,16:17,4,True
+92,Korean,Palma,Expensive,Upper West Side,3:53,4:49,1,False
+93,Chinese,Au Cheval,Cheap,East Village,7:01,10:14,5,True
+94,Italian,Take 31,Medium,Upper East Side,19:43,12:50,1,True
+95,Italian,Gramercy Tavern,Cheap,Chelsea,14:18,8:00,3,True
+96,American,Cha Long,Cheap,Chinatown,15:40,13:58,2,True
+97,Japanese,Gramercy Tavern,Cheap,Tribeca,21:21,11:16,4,False
+98,Mexican,Ippudo,Cheap,Chelsea,16:51,19:14,5,False
+99,Japanese,Chipotle,Cheap,Hell's Kitchen,19:27,9:57,1,False
+100,Thai,Tatiana,Expensive,Upper East Side,0:40,7:06,3,False
+101,Mexican,Au Cheval,Medium,Chinatown,13:15,23:12,3,False
+102,Chinese,Take 31,Cheap,Hell's Kitchen,9:46,23:21,3,True
+103,Japanese,Mamo,Medium,Gramercy,21:27,20:27,1,True
+104,Korean,ABC Kitchen,Expensive,Hell's Kitchen,1:00,1:06,4,False
+105,American,Five Guys,Medium,East Village,11:33,6:46,4,True
+106,American,The Modern,Cheap,Lower East Side,21:55,6:47,4,True
+107,Thai,Mamo,Expensive,Greenwich Village,21:51,3:51,1,False
+108,Japanese,Five Guys,Expensive,Financial District,3:18,22:10,3,True
+109,Thai,Fish Cheeks,Medium,Little Italy,13:48,22:11,4,False
+110,Japanese,Torrisi,Cheap,Gramercy,20:39,11:27,2,False
+111,Mexican,ABC Kitchen,Cheap,Chinatown,1:00,11:35,2,False
+112,Japanese,Up Thai,Cheap,Gramercy,23:28,9:51,2,False
+113,Italian,Gramercy Tavern,Expensive,Tribeca,15:52,1:27,5,False
+114,Italian,Take 31,Medium,Chinatown,21:10,9:52,4,False
+115,Japanese,Konbon,Medium,Financial District,14:17,11:11,2,True
+116,Thai,The Modern,Medium,Upper East Side,4:16,8:20,3,False
+117,French,Dudley's,Medium,Tribeca,5:22,10:13,4,True
+118,Japanese,Ippudo,Cheap,Financial District,4:19,14:02,3,True
+119,American,Dig,Medium,Financial District,4:25,17:33,1,False
+120,Mexican,Au Cheval,Cheap,Little Italy,15:46,5:51,5,True
+121,Korean,Torrisi,Cheap,East Village,23:56,18:34,5,True
+122,Korean,Torrisi,Cheap,Chinatown,8:43,2:29,2,True
+123,Thai,Che Li,Cheap,Financial District,23:40,15:15,4,True
+124,Mexican,Au Cheval,Cheap,Lower East Side,8:46,16:38,5,True
+125,Chinese,Sadelle's,Medium,Little Italy,12:23,14:23,5,False
+126,Chinese,Raku,Cheap,Financial District,17:28,6:26,5,True
+127,Thai,Gramercy Tavern,Cheap,Financial District,14:09,18:30,1,False
+128,Japanese,Au Cheval,Cheap,Midtown East,17:54,13:50,3,False
+129,Italian,Cha Long,Cheap,Financial District,13:29,1:37,1,True
+130,Japanese,Golden Wuish,Medium,Upper East Side,4:35,6:21,5,True
+131,Chinese,Golden Wuish,Medium,Gramercy,11:11,17:19,5,True
+132,Thai,Au Cheval,Medium,Soho,5:59,16:49,3,True
+133,Korean,ABC Kitchen,Cheap,Upper East Side,10:11,10:47,1,False
+134,Mexican,Nemesis,Cheap,Upper East Side,9:40,3:13,4,False
+135,French,Mamo,Expensive,Tribeca,2:48,2:02,1,False
+136,French,Chipotle,Expensive,Midtown East,6:07,15:49,4,True
+137,Japanese,Dudley's,Expensive,Chelsea,2:56,5:52,3,False
+138,American,Five Guys,Medium,Upper West Side,2:26,14:58,3,False
+139,Mexican,Five Guys,Cheap,Lower East Side,3:41,7:11,1,False
+140,American,Sonnyboy,Expensive,Little Italy,10:41,18:10,1,True
+141,American,Dudley's,Expensive,Upper East Side,5:40,17:30,3,True
+142,French,Raku,Medium,Gramercy,0:55,1:28,2,True
+143,Korean,Chipotle,Medium,Tribeca,23:04,19:15,5,True
+144,Japanese,Gramercy Tavern,Expensive,Little Italy,21:05,17:46,1,True
+145,American,Ruby's,Cheap,Midtown East,12:20,1:09,1,True
+146,American,Ruby's,Expensive,Soho,2:20,12:18,3,False
+147,French,ABC Kitchen,Cheap,Soho,21:22,18:46,2,True
+148,Thai,Che Li,Medium,Upper West Side,23:25,2:48,2,False
+149,Japanese,Dudley's,Expensive,Upper West Side,5:40,4:39,4,True
+150,American,Konbon,Medium,Gramercy,9:16,0:23,3,False
+151,Korean,Sonnyboy,Cheap,Greenwich Village,21:40,22:37,3,True
+152,Thai,Ippudo,Cheap,Hell's Kitchen,13:35,15:27,5,True
+153,Chinese,Nemesis,Medium,Gramercy,12:38,22:40,1,True
+154,American,Take 31,Medium,Chinatown,4:12,9:22,1,True
+155,Italian,Gramercy Tavern,Expensive,Little Italy,2:53,4:49,1,False
+156,Mexican,Mareluna,Expensive,East Village,11:37,2:23,3,False
+157,Chinese,Up Thai,Expensive,Upper West Side,2:01,19:43,4,True
+158,Italian,Sonnyboy,Cheap,Upper West Side,2:43,0:52,1,False
+159,American,Mareluna,Cheap,Soho,17:09,5:55,2,True
+160,Italian,Ippudo,Cheap,Financial District,12:04,8:24,3,False
+161,Korean,Tatiana,Expensive,Chinatown,2:39,10:02,4,True
+162,Korean,Au Cheval,Medium,Lower East Side,17:26,21:08,4,False
+163,American,Fish Cheeks,Medium,Chinatown,7:15,10:21,4,False
+164,American,Ruby's,Medium,Greenwich Village,0:32,19:45,4,True
+165,Japanese,Cha Long,Cheap,Tribeca,20:57,5:51,4,False
+166,Mexican,Ruby's,Medium,Little Italy,12:09,23:54,5,False
+167,American,Torrisi,Expensive,Financial District,0:17,18:29,3,False
+168,French,Dig,Expensive,Chinatown,7:58,4:58,2,True
+169,Mexican,Up Thai,Cheap,Tribeca,15:26,5:55,1,False
+170,Mexican,ABC Kitchen,Expensive,Upper East Side,12:05,9:31,4,False
+171,French,Gramercy Tavern,Cheap,Little Italy,10:11,14:54,4,True
+172,French,Konbon,Cheap,Little Italy,4:17,5:53,2,True
+173,Korean,Gramercy Tavern,Cheap,East Village,18:52,12:07,2,False
+174,Italian,Ippudo,Medium,Chinatown,17:18,17:34,4,False
+175,Mexican,Chipotle,Expensive,Financial District,4:43,18:52,1,True
+176,American,Raku,Expensive,Gramercy,18:11,15:15,5,False
+177,Chinese,Konbon,Medium,Gramercy,20:06,18:08,1,False
+178,Chinese,The Modern,Medium,Little Italy,14:38,9:54,5,True
+179,Thai,Dig,Medium,Little Italy,19:58,19:54,3,True
+180,Italian,Carbone,Expensive,Little Italy,3:23,3:06,1,True
+181,Mexican,Che Li,Expensive,Midtown East,21:41,22:47,2,False
+182,American,Chipotle,Cheap,Lower East Side,3:37,9:10,2,True
+183,American,ABC Kitchen,Medium,Chinatown,20:58,9:53,3,False
+184,Chinese,Ippudo,Medium,Upper East Side,8:15,1:17,4,True
+185,Chinese,Tatiana,Medium,Midtown East,11:04,7:45,4,False
+186,Chinese,Five Guys,Medium,Hell's Kitchen,5:38,0:23,2,True
+187,French,Gramercy Tavern,Expensive,Soho,3:44,13:54,2,True
+188,French,Up Thai,Medium,Lower East Side,17:23,23:32,4,True
+189,Italian,Dudley's,Cheap,Hell's Kitchen,11:31,13:19,3,False
+190,American,Golden Wuish,Medium,Tribeca,22:22,16:25,4,False
+191,American,Nemesis,Cheap,Upper East Side,19:14,22:44,4,False
+192,Chinese,Sonnyboy,Medium,Chinatown,9:51,11:27,4,False
+193,Italian,Konbon,Cheap,Gramercy,8:50,0:59,2,True
+194,Mexican,Au Cheval,Cheap,Financial District,0:48,2:14,2,True
+195,Japanese,Five Guys,Cheap,Upper East Side,20:34,0:56,4,True
+196,Italian,Fish Cheeks,Cheap,Midtown East,19:45,14:47,3,True
+197,Thai,Carbone,Cheap,Chinatown,3:34,18:04,5,False
+198,American,Palma,Expensive,Upper East Side,1:05,0:13,4,False
+199,French,Ruby's,Cheap,Upper West Side,22:55,23:08,3,True
+200,Mexican,Golden Wuish,Expensive,Gramercy,6:53,2:28,4,False
+201,French,Torrisi,Medium,Soho,4:39,13:47,2,True
+202,French,Ippudo,Medium,Chelsea,18:24,19:50,4,True
+203,Italian,Ruby's,Medium,Gramercy,2:50,16:44,5,True
+204,Chinese,Dig,Medium,Gramercy,0:34,4:54,1,False
+205,Mexican,Dudley's,Cheap,Upper East Side,13:32,11:53,2,False
+206,Japanese,Cha Long,Expensive,Midtown East,18:28,12:21,2,False
+207,Italian,Fish Cheeks,Cheap,Lower East Side,22:41,14:06,3,True
+208,French,Sonnyboy,Expensive,Little Italy,18:11,22:40,4,True
+209,French,Tatiana,Medium,Chinatown,21:39,11:24,5,True
+210,Italian,Up Thai,Cheap,Upper West Side,0:08,17:10,3,True
+211,American,Ippudo,Cheap,Upper East Side,11:33,18:43,3,False
+212,Korean,Che Li,Medium,Greenwich Village,2:45,11:27,1,False
+213,Italian,Torrisi,Cheap,Lower East Side,11:53,5:32,2,True
+214,American,Nemesis,Expensive,Little Italy,22:06,11:45,2,True
+215,Italian,Mareluna,Cheap,East Village,12:37,12:41,5,False
+216,Chinese,Nemesis,Expensive,Tribeca,11:59,16:19,2,True
+217,Korean,Gramercy Tavern,Cheap,Upper West Side,7:33,12:12,4,True
+218,Mexican,The Modern,Medium,Upper East Side,18:03,10:53,3,False
+219,American,Cha Long,Medium,Tribeca,20:24,20:06,1,False
+220,Thai,Golden Wuish,Medium,East Village,17:34,20:57,2,True
+221,American,Mareluna,Cheap,Upper East Side,13:10,3:39,2,True
+222,Mexican,Chipotle,Cheap,Greenwich Village,17:45,15:44,4,False
+223,Japanese,Sadelle's,Cheap,Greenwich Village,5:10,8:58,1,False
+224,Chinese,Up Thai,Expensive,East Village,8:40,5:25,4,False
+225,Italian,Konbon,Medium,Chelsea,5:54,23:01,2,True
+226,Thai,Raku,Medium,Greenwich Village,18:18,0:41,4,False
+227,Korean,Golden Wuish,Medium,East Village,21:13,16:39,5,True
+228,Italian,Gramercy Tavern,Expensive,Financial District,2:38,19:07,5,False
+229,Mexican,Tatiana,Medium,Upper West Side,3:16,20:20,2,False
+230,Chinese,Ippudo,Expensive,Chelsea,5:03,23:49,2,True
+231,Mexican,Fish Cheeks,Medium,Little Italy,12:54,8:04,4,False
+232,Thai,Chipotle,Cheap,Midtown East,6:14,22:25,2,False
+233,American,Tatiana,Expensive,Midtown East,22:59,10:12,3,False
+234,Thai,Palma,Cheap,Tribeca,6:08,0:46,3,False
+235,Korean,Gramercy Tavern,Expensive,Tribeca,10:08,9:02,1,False
+236,Japanese,Nemesis,Cheap,Midtown East,20:09,0:34,4,True
+237,Mexican,Au Cheval,Expensive,Upper East Side,14:14,19:12,2,False
+238,Chinese,Five Guys,Expensive,Upper East Side,17:20,8:14,2,True
+239,Japanese,Nemesis,Expensive,Greenwich Village,9:53,5:10,1,True
+240,Korean,Sonnyboy,Medium,Upper West Side,0:24,19:46,4,False
+241,Italian,Torrisi,Cheap,Upper West Side,18:44,10:27,3,False
+242,American,Gramercy Tavern,Cheap,Greenwich Village,10:27,14:28,1,False
+243,Japanese,Mareluna,Expensive,Midtown East,4:40,21:44,4,False
+244,Mexican,Palma,Expensive,Little Italy,3:35,20:31,5,True
+245,Chinese,Dig,Cheap,Tribeca,21:45,14:38,1,False
+246,French,Golden Wuish,Cheap,Upper West Side,21:27,10:30,1,True
+247,Italian,Gramercy Tavern,Expensive,Chinatown,12:31,18:23,4,False
+248,Mexican,Take 31,Cheap,Upper East Side,21:20,21:17,3,True
+249,French,Mamo,Cheap,Hell's Kitchen,11:25,19:01,2,True
+250,Korean,Up Thai,Cheap,Chinatown,0:55,2:38,4,True
+251,Korean,Golden Wuish,Cheap,Soho,20:57,23:50,5,True
+252,Japanese,Cha Long,Medium,Upper West Side,5:30,8:19,4,True
+253,Italian,Chipotle,Expensive,Midtown East,15:53,8:20,2,True
+254,Mexican,Gramercy Tavern,Medium,Soho,21:51,21:24,2,False
+255,Chinese,Golden Wuish,Medium,Chinatown,22:34,21:56,5,True
+256,Thai,Tatiana,Expensive,Lower East Side,17:17,2:58,2,True
+257,Korean,Gramercy Tavern,Expensive,Greenwich Village,12:52,1:45,1,True
+258,American,Sadelle's,Medium,Upper West Side,7:40,1:56,2,True
+259,American,The Modern,Cheap,Greenwich Village,7:47,1:12,4,True
+260,French,Carbone,Expensive,Upper East Side,8:54,9:56,3,True
+261,Chinese,Konbon,Medium,Gramercy,11:43,15:58,2,False
+262,American,Palma,Cheap,Gramercy,18:49,5:24,4,True
+263,Mexican,Torrisi,Expensive,Tribeca,9:06,3:51,5,False
+264,Italian,Sadelle's,Cheap,Chelsea,9:06,8:59,3,True
+265,Mexican,Konbon,Cheap,Financial District,4:32,5:52,1,False
+266,Korean,Cha Long,Medium,Gramercy,11:42,22:54,1,False
+267,Chinese,Che Li,Cheap,Lower East Side,12:20,23:44,5,False
+268,American,Cha Long,Cheap,Chelsea,20:26,9:13,4,False
+269,Korean,Dig,Medium,Little Italy,16:54,23:29,2,False
+270,Chinese,Sadelle's,Medium,Gramercy,12:38,4:24,1,True
+271,Thai,Palma,Expensive,Chinatown,19:21,10:21,5,True
+272,Mexican,Carbone,Expensive,Little Italy,1:15,16:38,1,True
+273,Thai,Five Guys,Cheap,Midtown East,17:36,19:38,2,False
+274,Chinese,Sonnyboy,Cheap,Financial District,9:41,17:41,3,False
+275,Korean,Nemesis,Cheap,Chinatown,18:06,22:36,1,False
+276,Italian,Nemesis,Expensive,Soho,21:06,8:00,3,True
+277,Japanese,Au Cheval,Expensive,Upper West Side,14:09,10:27,2,False
+278,Japanese,Fish Cheeks,Expensive,Upper West Side,13:19,4:40,4,False
+279,Thai,The Modern,Expensive,Chelsea,7:37,2:28,5,True
+280,Italian,Take 31,Expensive,Hell's Kitchen,6:05,17:20,1,False
+281,Chinese,Dig,Cheap,Gramercy,10:52,15:30,1,True
+282,Japanese,Au Cheval,Medium,Greenwich Village,18:14,22:06,4,True
+283,Thai,Chipotle,Medium,Hell's Kitchen,6:07,17:11,5,True
+284,Japanese,Konbon,Medium,Upper East Side,6:06,4:36,4,True
+285,Thai,Golden Wuish,Cheap,Little Italy,9:59,2:27,4,True
+286,French,Nemesis,Expensive,Soho,1:19,11:33,2,True
+287,American,Five Guys,Medium,Financial District,10:55,16:02,5,True
+288,American,Cha Long,Cheap,Gramercy,6:04,23:15,4,False
+289,French,Gramercy Tavern,Expensive,Hell's Kitchen,18:20,2:17,2,False
+290,Mexican,Up Thai,Expensive,Hell's Kitchen,13:44,1:48,5,True
+291,Chinese,Torrisi,Medium,Greenwich Village,15:34,16:08,1,True
+292,Italian,Sonnyboy,Cheap,Financial District,17:03,11:52,2,False
+293,Japanese,Golden Wuish,Medium,Tribeca,11:45,9:22,5,True
+294,Italian,Sadelle's,Cheap,East Village,23:32,9:49,3,False
+295,Chinese,Dudley's,Expensive,Soho,8:57,11:49,1,False
+296,American,Dig,Cheap,Chinatown,3:13,8:09,1,False
+297,Japanese,Mamo,Expensive,Upper East Side,23:38,13:55,3,True
+298,French,Konbon,Cheap,Little Italy,15:05,21:05,5,False
+299,Japanese,Nemesis,Medium,Soho,22:28,7:30,5,False
+300,French,Dig,Medium,Chelsea,1:19,13:58,5,False
+301,French,Up Thai,Medium,Midtown East,18:52,5:15,3,True
+302,French,Che Li,Cheap,Chinatown,21:42,0:50,2,False
+303,Chinese,Five Guys,Cheap,Upper West Side,4:50,7:08,5,True
+304,Italian,Golden Wuish,Cheap,Hell's Kitchen,22:39,4:18,1,True
+305,Italian,Five Guys,Expensive,Greenwich Village,5:14,9:35,2,True
+306,Korean,Dig,Expensive,Financial District,1:42,4:13,3,True
+307,American,Ippudo,Expensive,Midtown East,6:12,18:33,5,True
+308,Korean,Five Guys,Expensive,East Village,8:56,10:07,5,True
+309,Thai,Take 31,Expensive,Gramercy,15:07,21:41,1,True
+310,Thai,Sonnyboy,Medium,Gramercy,22:49,23:06,5,False
+311,Mexican,Chipotle,Medium,Midtown East,23:33,14:15,1,True
+312,Japanese,Mamo,Medium,Hell's Kitchen,5:04,21:12,4,False
+313,Mexican,Torrisi,Medium,Soho,1:32,0:39,2,False
+314,Japanese,Chipotle,Expensive,Midtown East,14:09,6:08,5,True
+315,Mexican,Sonnyboy,Cheap,Soho,9:11,5:25,4,True
+316,American,Carbone,Cheap,Financial District,2:37,3:58,1,True
+317,Thai,Carbone,Cheap,Greenwich Village,1:47,3:06,1,False
+318,French,Tatiana,Cheap,Gramercy,18:00,13:04,3,True
+319,Korean,Mareluna,Cheap,Financial District,10:24,21:34,1,True
+320,American,Ruby's,Expensive,Midtown East,22:28,22:04,5,True
+321,Italian,Take 31,Expensive,Soho,13:00,3:10,2,True
+322,French,Ippudo,Cheap,Little Italy,7:36,1:07,3,False
+323,Chinese,Cha Long,Cheap,Upper East Side,13:07,8:45,2,False
+324,American,Mareluna,Cheap,Chinatown,17:03,5:42,2,False
+325,French,Dig,Medium,Upper West Side,4:20,2:24,2,False
+326,American,Cha Long,Cheap,Tribeca,21:27,3:05,3,False
+327,Italian,Dudley's,Medium,Midtown East,5:24,9:24,5,False
+328,American,Au Cheval,Cheap,Hell's Kitchen,21:59,22:10,3,False
+329,Korean,Ruby's,Cheap,Upper West Side,19:08,9:59,4,True
+330,Mexican,Ruby's,Expensive,Lower East Side,16:40,22:19,4,True
+331,American,Carbone,Expensive,Midtown East,19:01,22:56,4,True
+332,Chinese,ABC Kitchen,Medium,Chinatown,4:31,13:30,1,True
+333,Thai,Dig,Cheap,Midtown East,21:49,0:05,3,True
+334,Thai,Torrisi,Expensive,Chelsea,5:53,10:29,5,True
+335,American,Sadelle's,Cheap,Upper West Side,21:18,19:42,2,False
+336,Mexican,Au Cheval,Medium,Upper West Side,22:28,22:24,5,False
+337,Japanese,Au Cheval,Expensive,Greenwich Village,8:59,23:40,2,True
+338,Japanese,Raku,Cheap,Financial District,22:30,15:45,4,True
+339,Chinese,Cha Long,Medium,Lower East Side,3:40,17:15,5,True
+340,Italian,Torrisi,Expensive,Lower East Side,17:20,7:45,3,True
+341,Chinese,The Modern,Expensive,Lower East Side,9:28,20:54,3,False
+342,Thai,Fish Cheeks,Medium,East Village,5:24,11:54,2,True
+343,Korean,Take 31,Medium,Chinatown,21:15,1:49,1,False
+344,Chinese,Konbon,Medium,Midtown East,17:25,19:03,4,False
+345,French,Ruby's,Medium,Chelsea,17:31,10:53,2,True
+346,Chinese,Ippudo,Medium,Chelsea,23:29,20:29,1,False
+347,Italian,Torrisi,Medium,Gramercy,6:19,8:26,4,False
+348,Korean,Dudley's,Medium,Chelsea,14:44,18:20,3,True
+349,Mexican,Au Cheval,Medium,Greenwich Village,23:12,6:07,2,True
+350,Thai,Gramercy Tavern,Cheap,Financial District,0:07,12:49,1,True
+351,American,Sadelle's,Cheap,Chinatown,17:52,16:51,5,True
+352,Mexican,Dudley's,Cheap,Upper East Side,2:30,4:38,2,True
+353,Korean,Fish Cheeks,Medium,East Village,8:48,16:59,3,False
+354,Chinese,The Modern,Medium,Upper West Side,7:42,19:11,3,False
+355,Korean,Torrisi,Medium,Hell's Kitchen,0:46,23:20,4,False
+356,Chinese,Torrisi,Medium,Chelsea,3:44,1:36,2,True
+357,American,Ruby's,Expensive,Financial District,22:00,9:39,3,True
+358,Japanese,Mamo,Cheap,Chinatown,5:28,4:35,1,True
+359,Italian,Tatiana,Cheap,Tribeca,16:05,19:02,2,False
+360,Korean,Raku,Expensive,Upper West Side,9:28,9:28,5,False
+361,Italian,Golden Wuish,Expensive,Chelsea,16:57,20:31,2,True
+362,Korean,Palma,Cheap,Chinatown,23:58,13:35,5,False
+363,Mexican,Up Thai,Cheap,Chelsea,7:17,11:23,3,True
+364,Mexican,Mamo,Medium,Lower East Side,1:12,16:14,4,False
+365,Thai,Carbone,Cheap,East Village,9:24,12:43,4,True
+366,Japanese,Tatiana,Expensive,Upper West Side,15:47,13:44,2,True
+367,American,Gramercy Tavern,Medium,Gramercy,6:27,16:16,3,True
+368,American,Carbone,Expensive,Hell's Kitchen,8:46,4:02,4,False
+369,Korean,Chipotle,Cheap,Midtown East,21:17,19:42,4,False
+370,Korean,Nemesis,Cheap,Lower East Side,14:48,3:42,1,False
+371,Mexican,Tatiana,Medium,Upper East Side,7:32,10:45,2,False
+372,Thai,Gramercy Tavern,Expensive,Chelsea,18:10,10:13,1,False
+373,French,Up Thai,Cheap,Midtown East,15:47,17:24,5,True
+374,French,Raku,Medium,Soho,0:01,18:58,5,True
+375,American,Up Thai,Expensive,Midtown East,5:13,21:23,1,False
+376,Korean,Sadelle's,Expensive,Soho,7:42,4:28,5,True
+377,Korean,Up Thai,Medium,Hell's Kitchen,23:21,11:14,3,False
+378,Chinese,Raku,Cheap,Tribeca,8:59,22:09,1,True
+379,Mexican,Tatiana,Cheap,Chinatown,0:25,10:15,1,True
+380,Chinese,Sadelle's,Cheap,Tribeca,16:41,16:24,2,True
+381,Italian,Golden Wuish,Medium,Chelsea,16:43,3:49,1,True
+382,Mexican,Dig,Expensive,Midtown East,11:59,14:49,5,False
+383,American,Five Guys,Expensive,Chelsea,1:08,19:44,3,True
+384,Japanese,Five Guys,Expensive,Soho,6:11,18:35,1,True
+385,Chinese,Take 31,Medium,Little Italy,12:19,7:54,1,True
+386,Italian,Konbon,Cheap,Hell's Kitchen,22:11,18:55,3,False
+387,American,Ippudo,Medium,Chinatown,23:15,6:00,4,True
+388,Korean,Torrisi,Medium,Soho,9:37,22:52,3,False
+389,Japanese,Chipotle,Cheap,Chinatown,3:10,4:45,1,False
+390,Chinese,Nemesis,Cheap,Little Italy,9:47,20:08,5,True
+391,American,Sadelle's,Expensive,Hell's Kitchen,4:28,16:51,3,False
+392,Italian,Torrisi,Expensive,Midtown East,8:47,4:30,1,False
+393,Thai,Fish Cheeks,Cheap,Chelsea,20:06,19:23,4,True
+394,French,The Modern,Medium,Hell's Kitchen,8:01,0:17,5,True
+395,Japanese,The Modern,Expensive,Soho,12:22,9:00,1,True
+396,French,Sonnyboy,Expensive,Tribeca,18:27,7:01,1,True
+397,Italian,Mareluna,Expensive,Lower East Side,10:18,16:52,1,False
+398,American,Five Guys,Cheap,Chelsea,15:43,18:32,5,False
+399,Mexican,Ippudo,Expensive,East Village,17:44,1:52,1,False
+400,Thai,Gramercy Tavern,Cheap,Lower East Side,18:00,19:33,5,True
+401,Thai,Palma,Expensive,Greenwich Village,20:38,10:53,2,True
+402,French,Gramercy Tavern,Cheap,Lower East Side,23:15,11:41,1,False
+403,Thai,Che Li,Cheap,Midtown East,17:39,5:48,3,False
+404,Italian,Five Guys,Cheap,Greenwich Village,2:49,17:10,3,False
+405,Chinese,Raku,Expensive,Upper East Side,3:07,11:08,3,True
+406,Chinese,Konbon,Expensive,Financial District,18:58,9:09,5,False
+407,Chinese,Mamo,Cheap,Hell's Kitchen,14:23,17:45,2,True
+408,Italian,Ippudo,Cheap,Chelsea,19:00,5:37,3,False
+409,French,Konbon,Medium,Upper East Side,23:52,13:42,2,True
+410,French,Nemesis,Cheap,Little Italy,18:37,22:42,3,False
+411,Italian,Torrisi,Medium,Lower East Side,19:30,9:19,5,False
+412,Mexican,Sadelle's,Cheap,Upper East Side,6:53,20:31,1,True
+413,Japanese,Cha Long,Cheap,Midtown East,12:03,23:02,3,True
+414,Italian,Torrisi,Medium,Little Italy,5:09,18:30,3,False
+415,French,Gramercy Tavern,Medium,Chelsea,14:22,6:41,2,False
+416,Japanese,Chipotle,Expensive,Gramercy,16:54,13:51,4,True
+417,Italian,Fish Cheeks,Cheap,Financial District,2:44,22:54,3,False
+418,Korean,Raku,Expensive,Chelsea,22:15,3:45,5,False
+419,Italian,Chipotle,Medium,Chinatown,21:38,9:43,2,True
+420,Mexican,Cha Long,Cheap,Financial District,21:14,1:00,2,True
+421,Japanese,Nemesis,Cheap,Upper East Side,6:04,21:08,1,False
+422,American,Gramercy Tavern,Medium,Financial District,13:25,13:18,1,False
+423,Japanese,Golden Wuish,Cheap,Lower East Side,15:32,15:37,5,True
+424,Mexican,Take 31,Expensive,Lower East Side,18:37,19:44,5,False
+425,Korean,Torrisi,Medium,Upper West Side,23:20,14:38,5,False
+426,American,The Modern,Expensive,Lower East Side,17:09,15:11,2,True
+427,Chinese,Raku,Medium,Financial District,6:22,16:38,3,True
+428,Thai,Take 31,Expensive,Little Italy,23:24,0:31,5,True
+429,Italian,Cha Long,Cheap,Lower East Side,9:11,16:53,2,False
+430,Italian,Gramercy Tavern,Cheap,Lower East Side,2:00,9:45,5,False
+431,French,Mamo,Medium,Lower East Side,23:44,16:27,4,False
+432,Japanese,Raku,Cheap,Gramercy,16:39,6:42,5,False
+433,Italian,Raku,Expensive,Midtown East,9:34,22:46,4,True
+434,Italian,Au Cheval,Expensive,Hell's Kitchen,20:22,16:13,5,False
+435,French,Torrisi,Cheap,Upper East Side,8:57,4:36,2,False
+436,Chinese,Palma,Medium,Hell's Kitchen,6:50,2:47,1,True
+437,Italian,Up Thai,Cheap,Little Italy,4:07,16:56,5,False
+438,Italian,Au Cheval,Cheap,Midtown East,6:21,17:45,5,False
+439,Italian,Nemesis,Expensive,Hell's Kitchen,21:44,11:17,2,True
+440,Chinese,ABC Kitchen,Expensive,Upper West Side,23:02,18:57,4,True
+441,French,Fish Cheeks,Cheap,Financial District,19:14,12:31,3,False
+442,Japanese,Sadelle's,Expensive,Midtown East,4:09,13:17,3,True
+443,American,Up Thai,Expensive,Gramercy,2:59,17:38,2,True
+444,Thai,Ruby's,Cheap,Gramercy,2:18,5:34,5,True
+445,Chinese,Cha Long,Cheap,Chelsea,14:09,12:16,1,True
+446,Korean,Konbon,Cheap,Upper East Side,12:49,17:07,5,True
+447,Thai,Nemesis,Medium,Chinatown,6:59,18:51,4,False
+448,Italian,Carbone,Expensive,Soho,7:44,4:04,1,True
+449,Korean,Ruby's,Expensive,Chelsea,21:54,18:11,4,False
+450,Korean,Ruby's,Medium,Chelsea,12:18,16:10,3,True
+451,Mexican,Dudley's,Cheap,Financial District,9:39,3:31,4,True
+452,Chinese,Chipotle,Medium,Midtown East,10:32,12:16,4,True
+453,Japanese,Cha Long,Medium,Gramercy,16:30,9:39,2,True
+454,French,The Modern,Cheap,Midtown East,11:17,22:34,2,False
+455,Mexican,Chipotle,Medium,Upper West Side,10:30,13:10,5,False
+456,Korean,Carbone,Medium,Soho,7:19,16:01,4,False
+457,Japanese,Mamo,Expensive,Chinatown,7:00,15:09,2,True
+458,Chinese,Che Li,Cheap,Financial District,18:12,10:43,2,False
+459,Italian,Sadelle's,Expensive,Upper East Side,17:08,11:01,4,False
+460,Japanese,Che Li,Medium,East Village,10:20,23:16,1,True
+461,Thai,Che Li,Cheap,Gramercy,10:53,2:32,4,False
+462,Korean,Sonnyboy,Expensive,East Village,7:04,7:18,3,False
+463,American,Ruby's,Cheap,Little Italy,14:56,10:51,3,True
+464,Chinese,Five Guys,Expensive,Upper West Side,13:02,19:56,4,True
+465,Chinese,Five Guys,Cheap,Soho,1:14,8:28,1,False
+466,Italian,Up Thai,Cheap,Chelsea,2:28,8:17,4,False
+467,French,Mareluna,Medium,Chinatown,15:00,13:10,3,True
+468,Chinese,Che Li,Medium,Lower East Side,7:17,9:35,2,False
+469,Korean,The Modern,Cheap,Upper West Side,0:08,15:35,3,False
+470,French,Palma,Expensive,Chelsea,6:42,12:14,5,False
+471,Korean,Dudley's,Cheap,Tribeca,3:36,18:41,5,True
+472,Chinese,Fish Cheeks,Cheap,Tribeca,12:05,10:18,1,True
+473,Mexican,Sadelle's,Medium,Upper West Side,13:05,4:57,3,True
+474,Thai,Carbone,Cheap,Greenwich Village,6:07,2:37,3,False
+475,American,Tatiana,Cheap,Little Italy,23:03,12:09,1,False
+476,American,Tatiana,Cheap,Chinatown,15:28,18:08,1,False
+477,French,Carbone,Expensive,Chelsea,17:46,5:10,1,True
+478,Thai,Fish Cheeks,Cheap,Lower East Side,20:17,7:01,3,True
+479,French,Up Thai,Medium,Financial District,2:34,11:55,5,False
+480,Italian,Tatiana,Cheap,Hell's Kitchen,2:22,3:28,2,False
+481,Thai,Fish Cheeks,Expensive,Upper East Side,4:41,23:11,5,True
+482,Italian,Take 31,Medium,Lower East Side,12:33,20:06,2,False
+483,Thai,Tatiana,Cheap,Little Italy,8:53,18:03,1,True
+484,Japanese,ABC Kitchen,Cheap,Financial District,9:06,7:30,1,True
+485,Chinese,Dig,Medium,Upper West Side,17:19,22:38,2,False
+486,American,The Modern,Cheap,Tribeca,5:01,12:47,5,True
+487,Italian,Konbon,Cheap,Upper East Side,22:25,12:19,1,True
+488,Italian,Dudley's,Expensive,Midtown East,9:41,2:12,2,False
+489,Mexican,Golden Wuish,Cheap,East Village,16:42,2:02,1,False
+490,Korean,Five Guys,Cheap,Midtown East,2:28,6:11,3,False
+491,American,Ippudo,Expensive,Upper West Side,2:49,6:39,5,False
+492,French,Konbon,Medium,Soho,2:27,6:22,3,True
+493,Korean,Up Thai,Cheap,Midtown East,9:01,21:04,3,False
+494,Chinese,Sadelle's,Medium,Gramercy,19:59,3:37,4,False
+495,French,Ruby's,Cheap,Tribeca,8:48,5:46,2,True
+496,Chinese,Fish Cheeks,Cheap,Lower East Side,15:37,4:29,5,True
+497,Chinese,Fish Cheeks,Expensive,Gramercy,12:25,4:32,4,False
+498,Mexican,Au Cheval,Cheap,Upper West Side,13:32,16:06,5,False
+499,American,Torrisi,Medium,Gramercy,11:09,2:06,5,False
+500,American,Take 31,Cheap,Hell's Kitchen,14:37,8:39,4,True
+501,Korean,Che Li,Medium,Midtown East,20:25,14:40,2,True
+502,Thai,Tatiana,Expensive,Chinatown,6:39,14:56,1,True
+503,Japanese,Raku,Cheap,East Village,22:22,5:53,4,False
+504,Mexican,The Modern,Expensive,Gramercy,0:58,9:09,2,False
+505,French,Che Li,Cheap,Upper West Side,16:25,16:19,3,True
+506,Thai,Ruby's,Expensive,Midtown East,3:23,17:27,4,False
+507,Chinese,Konbon,Medium,Greenwich Village,19:55,18:01,5,False
+508,American,Fish Cheeks,Cheap,Midtown East,2:48,23:38,5,False
+509,Japanese,Cha Long,Cheap,Lower East Side,19:43,14:49,4,False
+510,Chinese,Mamo,Medium,Greenwich Village,15:17,3:34,1,True
+511,Thai,Golden Wuish,Medium,Midtown East,7:20,8:33,4,True
+512,Chinese,Up Thai,Cheap,Greenwich Village,22:31,16:22,3,True
+513,American,Konbon,Expensive,East Village,7:22,14:59,4,False
+514,Thai,Dudley's,Expensive,Greenwich Village,2:48,8:53,1,True
+515,Thai,Chipotle,Medium,Little Italy,22:55,14:19,5,True
+516,Chinese,Golden Wuish,Expensive,Little Italy,7:42,7:47,4,True
+517,Mexican,Fish Cheeks,Cheap,Upper West Side,1:15,20:09,3,True
+518,Mexican,Mareluna,Medium,Financial District,5:52,2:17,4,False
+519,Italian,The Modern,Cheap,Tribeca,5:08,8:49,4,True
+520,Thai,Carbone,Expensive,Midtown East,7:33,8:15,3,False
+521,Mexican,Sadelle's,Expensive,Lower East Side,4:50,8:57,2,True
+522,Thai,Tatiana,Cheap,Upper East Side,12:01,16:04,3,False
+523,Thai,Fish Cheeks,Cheap,Gramercy,21:41,3:07,1,True
+524,Korean,Five Guys,Cheap,Upper West Side,13:04,21:25,2,True
+525,Italian,Ruby's,Expensive,Upper West Side,7:20,17:31,1,False
+526,American,Mamo,Expensive,Greenwich Village,18:41,18:23,2,False
+527,French,Carbone,Expensive,Gramercy,4:33,16:30,5,True
+528,Italian,Ruby's,Expensive,Gramercy,16:45,6:10,1,False
+529,Korean,Golden Wuish,Cheap,East Village,3:15,15:36,2,True
+530,Mexican,Che Li,Expensive,Financial District,16:29,19:53,1,False
+531,Japanese,The Modern,Expensive,Lower East Side,7:07,13:57,2,False
+532,Italian,Dudley's,Medium,Chelsea,17:33,18:19,5,False
+533,Japanese,Mamo,Expensive,Hell's Kitchen,4:29,8:30,4,False
+534,Korean,Tatiana,Cheap,Upper East Side,12:27,2:24,1,False
+535,Japanese,Ruby's,Medium,Hell's Kitchen,9:50,19:26,4,True
+536,Japanese,Up Thai,Expensive,Chelsea,10:55,11:23,1,False
+537,Chinese,Chipotle,Cheap,Tribeca,10:33,4:28,1,False
+538,Chinese,Palma,Cheap,Little Italy,16:32,9:57,2,False
+539,Japanese,Ippudo,Medium,Gramercy,21:53,1:54,3,True
+540,Chinese,Cha Long,Cheap,Soho,1:43,2:24,3,False
+541,Mexican,Carbone,Cheap,Soho,14:22,8:26,4,True
+542,Japanese,Torrisi,Medium,Greenwich Village,16:39,16:46,5,False
+543,American,Sadelle's,Cheap,Lower East Side,6:12,21:37,3,True
+544,Thai,Palma,Medium,Greenwich Village,10:01,11:10,2,True
+545,American,Take 31,Medium,Tribeca,10:40,7:51,5,False
+546,Chinese,Sonnyboy,Medium,Little Italy,3:58,20:28,2,False
+547,American,Nemesis,Expensive,Little Italy,18:05,21:53,4,True
+548,French,Mamo,Cheap,Gramercy,18:42,15:45,1,False
+549,Mexican,Che Li,Medium,Gramercy,15:02,21:16,2,False
+550,Korean,Dudley's,Medium,Upper East Side,13:07,2:59,2,False
+551,Korean,Ippudo,Cheap,Chelsea,0:51,3:21,4,False
+552,Japanese,Konbon,Medium,Upper East Side,22:09,16:41,5,False
+553,Korean,The Modern,Cheap,Midtown East,21:59,16:49,2,False
+554,French,Fish Cheeks,Medium,Upper West Side,13:30,3:25,5,True
+555,French,Au Cheval,Medium,Gramercy,16:01,19:45,1,False
+556,Korean,Raku,Expensive,Midtown East,18:56,18:52,1,True
+557,Thai,Up Thai,Cheap,Hell's Kitchen,16:19,18:44,3,False
+558,Thai,Dudley's,Medium,Midtown East,17:19,6:16,5,True
+559,Chinese,Mamo,Cheap,Upper West Side,0:49,19:45,1,False
+560,Korean,Cha Long,Medium,Midtown East,9:44,12:46,1,True
+561,Italian,Dig,Cheap,Chinatown,2:59,5:01,2,False
+562,Korean,Ippudo,Cheap,Financial District,21:01,19:03,5,False
+563,Japanese,Five Guys,Expensive,Upper East Side,8:03,1:59,1,False
+564,Korean,Sonnyboy,Medium,Little Italy,0:24,23:06,1,False
+565,Korean,Raku,Cheap,Midtown East,0:45,20:49,4,True
+566,Korean,Five Guys,Expensive,Soho,17:29,20:15,4,False
+567,American,Gramercy Tavern,Cheap,Greenwich Village,15:21,23:41,3,False
+568,Japanese,Gramercy Tavern,Medium,Chinatown,17:58,9:52,2,False
+569,Thai,Mareluna,Cheap,Upper West Side,20:17,2:19,3,False
+570,American,Cha Long,Expensive,Tribeca,2:21,5:44,3,True
+571,Japanese,Ippudo,Medium,Lower East Side,16:23,11:04,4,False
+572,American,Che Li,Expensive,Soho,16:08,5:04,2,False
+573,Thai,Au Cheval,Expensive,Hell's Kitchen,16:35,6:09,3,True
+574,Mexican,Mareluna,Expensive,Upper West Side,15:25,17:44,1,False
+575,Korean,Che Li,Medium,Hell's Kitchen,22:30,19:26,3,False
+576,Italian,Take 31,Expensive,Gramercy,14:29,6:40,2,True
+577,Thai,Sadelle's,Expensive,Tribeca,11:14,8:36,2,True
+578,Japanese,Ruby's,Cheap,Lower East Side,20:59,7:16,2,True
+579,Korean,Dig,Medium,Tribeca,11:32,2:01,5,True
+580,American,Carbone,Expensive,Gramercy,20:06,22:25,2,True
+581,Chinese,Tatiana,Expensive,Upper East Side,10:05,13:36,4,True
+582,American,Tatiana,Medium,East Village,9:52,16:44,3,False
+583,Mexican,Dudley's,Expensive,Gramercy,14:40,12:47,5,True
+584,Thai,Konbon,Cheap,Financial District,0:42,19:28,3,False
+585,French,Ippudo,Expensive,Financial District,1:14,21:40,2,True
+586,Italian,Sadelle's,Medium,Soho,6:46,7:11,5,True
+587,American,Cha Long,Medium,Upper West Side,3:37,6:06,2,True
+588,French,Fish Cheeks,Expensive,Upper East Side,18:20,4:17,1,False
+589,Japanese,Fish Cheeks,Medium,Greenwich Village,3:46,22:26,1,False
+590,Japanese,Raku,Expensive,Tribeca,12:43,5:40,3,False
+591,Chinese,Five Guys,Medium,Tribeca,18:02,10:31,4,True
+592,Italian,Up Thai,Cheap,Greenwich Village,17:11,5:41,2,True
+593,American,Tatiana,Medium,Soho,18:03,11:28,3,True
+594,American,Up Thai,Expensive,Upper East Side,16:09,9:09,5,False
+595,Italian,Torrisi,Expensive,Greenwich Village,19:23,11:02,5,True
+596,Chinese,Take 31,Expensive,Gramercy,2:25,17:22,1,False
+597,American,Konbon,Cheap,Chinatown,14:06,16:45,3,True
+598,Mexican,Torrisi,Medium,Greenwich Village,18:01,22:04,3,True
+599,Chinese,Palma,Expensive,Tribeca,1:02,4:15,5,False
+600,French,Sonnyboy,Expensive,Soho,22:56,23:09,4,False
+601,American,Tatiana,Medium,Chinatown,21:20,3:11,4,True
+602,Italian,Sonnyboy,Expensive,Chelsea,10:44,4:09,5,True
+603,Mexican,Mamo,Medium,Upper West Side,4:19,6:22,5,True
+604,Mexican,Take 31,Medium,Hell's Kitchen,13:15,16:47,3,True
+605,Japanese,The Modern,Expensive,Tribeca,1:23,5:36,1,False
+606,American,Fish Cheeks,Expensive,Gramercy,23:03,21:19,4,False
+607,French,The Modern,Medium,Financial District,15:28,12:16,5,True
+608,French,ABC Kitchen,Medium,Tribeca,21:35,1:45,4,True
+609,Korean,Carbone,Cheap,Tribeca,2:37,19:33,3,False
+610,Mexican,Nemesis,Expensive,Hell's Kitchen,17:58,11:23,1,False
+611,Mexican,Dig,Expensive,Soho,18:45,0:26,1,True
+612,French,Raku,Medium,Upper East Side,13:56,21:52,4,False
+613,Thai,Palma,Expensive,Tribeca,17:11,15:11,5,False
+614,Chinese,Mamo,Cheap,Tribeca,16:56,23:23,2,True
+615,French,Carbone,Medium,Chelsea,17:09,20:44,1,True
+616,Thai,The Modern,Cheap,Little Italy,15:09,15:46,5,True
+617,Thai,Torrisi,Medium,Tribeca,17:06,0:29,4,False
+618,Thai,Ippudo,Expensive,Chinatown,17:22,9:44,5,True
+619,French,Konbon,Medium,East Village,17:06,6:44,3,False
+620,French,Che Li,Cheap,Financial District,13:12,20:40,4,True
+621,Italian,Carbone,Expensive,Little Italy,20:34,0:51,2,False
+622,Chinese,Gramercy Tavern,Expensive,Tribeca,7:55,7:42,1,False
+623,American,Dig,Cheap,Upper West Side,9:36,2:05,4,True
+624,Italian,Nemesis,Medium,Chinatown,22:29,11:36,3,False
+625,Korean,The Modern,Medium,Midtown East,12:08,12:14,5,True
+626,French,Dudley's,Medium,Greenwich Village,11:28,22:29,3,False
+627,French,Che Li,Expensive,Little Italy,11:14,22:28,4,False
+628,Chinese,Raku,Expensive,Upper East Side,3:42,22:39,5,False
+629,Korean,Ruby's,Expensive,Midtown East,22:58,10:58,1,False
+630,Japanese,Ippudo,Cheap,Greenwich Village,5:34,22:35,3,False
+631,Chinese,Raku,Medium,Lower East Side,14:15,13:49,1,False
+632,Chinese,Carbone,Cheap,Midtown East,7:30,17:49,4,False
+633,Chinese,Konbon,Expensive,East Village,21:38,6:13,5,False
+634,American,Torrisi,Cheap,Upper West Side,23:03,0:32,2,True
+635,Thai,Mareluna,Medium,Chelsea,0:20,4:05,5,False
+636,Thai,Ruby's,Expensive,Financial District,0:48,4:09,1,True
+637,French,Ruby's,Cheap,Gramercy,0:12,13:09,3,False
+638,American,Nemesis,Medium,Midtown East,3:54,19:40,1,True
+639,American,Mareluna,Medium,Tribeca,11:40,13:33,1,False
+640,Chinese,Fish Cheeks,Medium,Lower East Side,6:05,3:40,3,False
+641,Korean,Torrisi,Cheap,Upper East Side,20:22,15:45,5,False
+642,Korean,Chipotle,Expensive,Gramercy,14:32,23:45,2,False
+643,American,Ruby's,Cheap,Hell's Kitchen,17:36,11:51,3,False
+644,Thai,Fish Cheeks,Medium,Upper West Side,13:27,8:11,4,True
+645,Mexican,Fish Cheeks,Expensive,Midtown East,21:34,11:42,1,True
+646,Thai,The Modern,Cheap,Upper East Side,4:41,6:35,1,False
+647,Mexican,Up Thai,Cheap,Lower East Side,21:58,0:14,2,False
+648,Thai,Carbone,Cheap,East Village,13:31,5:42,3,False
+649,French,ABC Kitchen,Expensive,Little Italy,3:42,12:40,3,True
+650,Mexican,Sadelle's,Expensive,Hell's Kitchen,14:42,19:50,5,False
+651,Chinese,Tatiana,Medium,Upper East Side,8:58,6:18,4,False
+652,American,Golden Wuish,Medium,Financial District,10:53,3:51,3,True
+653,Mexican,Ruby's,Medium,East Village,6:35,7:04,5,False
+654,Mexican,The Modern,Expensive,East Village,5:16,23:20,2,False
+655,French,Up Thai,Medium,Greenwich Village,16:22,20:40,4,False
+656,Thai,Dudley's,Cheap,Upper East Side,23:38,5:32,2,False
+657,Korean,Konbon,Expensive,Little Italy,12:26,17:25,1,True
+658,Japanese,Five Guys,Medium,Upper East Side,15:06,21:30,4,True
+659,Italian,The Modern,Medium,Lower East Side,3:54,23:04,2,True
+660,Korean,Nemesis,Cheap,Financial District,10:50,3:33,2,True
+661,French,Sadelle's,Expensive,Hell's Kitchen,20:48,3:15,2,False
+662,Chinese,Carbone,Expensive,Gramercy,19:44,7:44,4,False
+663,American,Cha Long,Cheap,East Village,0:44,4:56,3,False
+664,Thai,Au Cheval,Cheap,Upper West Side,13:45,0:39,1,True
+665,Mexican,Carbone,Cheap,Greenwich Village,0:45,17:20,3,True
+666,American,Tatiana,Cheap,Little Italy,7:50,9:43,2,True
+667,Japanese,Torrisi,Medium,Upper West Side,16:32,0:45,1,False
+668,Thai,Fish Cheeks,Expensive,Midtown East,20:05,3:16,5,True
+669,Italian,Gramercy Tavern,Cheap,Hell's Kitchen,9:08,8:42,2,False
+670,Korean,Take 31,Cheap,Chelsea,1:05,16:53,4,True
+671,Japanese,Golden Wuish,Cheap,Chinatown,0:54,18:09,4,True
+672,Italian,Sadelle's,Medium,Chinatown,3:17,4:33,2,True
+673,American,Dudley's,Cheap,Little Italy,1:19,2:06,2,True
+674,Thai,Sonnyboy,Expensive,Chinatown,14:43,23:43,2,False
+675,American,Mareluna,Medium,Chinatown,11:20,7:11,5,False
+676,American,ABC Kitchen,Medium,Chelsea,3:08,6:48,4,False
+677,American,Ruby's,Expensive,Lower East Side,1:39,23:49,3,False
+678,Japanese,Gramercy Tavern,Medium,Tribeca,23:48,21:14,1,True
+679,French,Mareluna,Cheap,Chelsea,3:53,5:29,4,False
+680,Mexican,Sonnyboy,Medium,Chelsea,9:40,4:02,4,True
+681,French,Dig,Cheap,Little Italy,21:11,13:02,5,True
+682,Korean,Tatiana,Medium,Upper East Side,13:18,8:20,1,True
+683,Korean,Mareluna,Medium,Upper East Side,4:21,9:32,3,True
+684,Japanese,Fish Cheeks,Cheap,Little Italy,7:57,1:42,5,True
+685,American,Golden Wuish,Cheap,Financial District,7:49,17:09,2,False
+686,Italian,The Modern,Expensive,Midtown East,5:47,4:40,1,False
+687,Japanese,Take 31,Expensive,Midtown East,18:43,13:56,3,False
+688,Italian,Sadelle's,Medium,Upper West Side,8:24,21:04,5,True
+689,Italian,Gramercy Tavern,Expensive,Greenwich Village,13:28,13:11,4,True
+690,Mexican,ABC Kitchen,Expensive,East Village,7:12,21:10,3,True
+691,Korean,ABC Kitchen,Expensive,Midtown East,21:04,6:46,5,True
+692,Mexican,Sadelle's,Medium,Tribeca,5:06,17:56,4,True
+693,Japanese,Dig,Medium,Tribeca,3:43,7:46,2,False
+694,French,Konbon,Expensive,Upper East Side,13:54,1:54,5,False
+695,Mexican,Cha Long,Cheap,Upper East Side,19:35,14:59,5,True
+696,American,Five Guys,Expensive,Gramercy,1:24,12:40,3,True
+697,Mexican,Ippudo,Cheap,Upper West Side,17:15,23:00,5,False
+698,Italian,Nemesis,Cheap,Midtown East,4:44,0:12,4,True
+699,Mexican,Dig,Medium,Upper West Side,15:34,9:54,4,False
+700,Thai,Mareluna,Medium,Tribeca,4:00,11:29,3,False
+701,Mexican,Palma,Expensive,Upper East Side,17:52,23:39,5,False
+702,Japanese,Palma,Medium,Gramercy,3:26,5:45,5,True
+703,French,Ippudo,Medium,East Village,10:20,3:51,4,False
+704,Japanese,Gramercy Tavern,Cheap,Chinatown,8:05,5:43,2,False
+705,Thai,Au Cheval,Medium,Little Italy,17:09,7:49,5,False
+706,Thai,Five Guys,Cheap,Soho,0:15,22:45,3,False
+707,Japanese,Palma,Medium,Gramercy,5:48,5:50,1,False
+708,French,Tatiana,Cheap,Little Italy,9:14,10:32,2,False
+709,Italian,Mareluna,Medium,Greenwich Village,15:51,12:31,5,True
+710,Japanese,Raku,Medium,East Village,15:33,7:04,3,True
+711,Chinese,Nemesis,Cheap,Upper West Side,19:23,20:12,3,True
+712,Japanese,Chipotle,Cheap,Financial District,19:18,17:42,4,False
+713,Thai,Golden Wuish,Expensive,East Village,1:03,5:14,3,False
+714,American,Carbone,Expensive,East Village,3:58,20:58,3,False
+715,Chinese,Sonnyboy,Expensive,Soho,3:40,14:37,3,False
+716,French,Ippudo,Expensive,Financial District,18:09,20:30,1,False
+717,Korean,Sonnyboy,Expensive,Gramercy,9:38,8:43,2,True
+718,Mexican,Raku,Cheap,Soho,16:17,10:05,5,True
+719,American,Au Cheval,Medium,Upper East Side,12:16,9:37,2,True
+720,Mexican,Tatiana,Expensive,Midtown East,15:11,15:16,4,False
+721,Japanese,Che Li,Expensive,Financial District,2:35,14:50,3,True
+722,Italian,Golden Wuish,Cheap,Soho,15:33,17:25,2,False
+723,Japanese,Mamo,Cheap,Gramercy,12:27,4:22,3,True
+724,Korean,The Modern,Cheap,Upper East Side,5:47,20:54,2,True
+725,Japanese,Take 31,Medium,East Village,16:59,21:03,1,True
+726,French,Sonnyboy,Expensive,Midtown East,20:14,11:29,1,True
+727,French,Tatiana,Medium,Chinatown,3:21,9:45,1,False
+728,French,ABC Kitchen,Expensive,Upper East Side,12:40,7:05,3,True
+729,Italian,Au Cheval,Medium,Hell's Kitchen,14:18,8:22,4,False
+730,Korean,Sadelle's,Expensive,Greenwich Village,21:48,3:46,5,True
+731,Korean,Palma,Medium,Financial District,13:46,7:45,1,True
+732,Japanese,Au Cheval,Cheap,Little Italy,10:41,6:38,3,False
+733,Korean,Up Thai,Cheap,Lower East Side,11:19,9:07,3,False
+734,Thai,Torrisi,Cheap,Greenwich Village,20:49,4:29,4,False
+735,Mexican,Chipotle,Cheap,Lower East Side,15:18,23:32,4,False
+736,Korean,Konbon,Expensive,Gramercy,14:56,11:38,5,False
+737,Italian,Five Guys,Medium,Soho,2:43,5:04,2,False
+738,Italian,Dudley's,Cheap,Lower East Side,11:21,1:13,2,False
+739,Korean,Mareluna,Expensive,Upper East Side,11:40,19:40,2,False
+740,Chinese,Tatiana,Medium,Lower East Side,8:28,16:48,1,True
+741,Korean,The Modern,Medium,Gramercy,10:18,19:32,4,False
+742,Korean,Ruby's,Expensive,East Village,8:46,1:33,5,False
+743,Italian,Raku,Cheap,Chelsea,5:51,3:18,2,False
+744,Thai,Chipotle,Cheap,East Village,17:03,5:52,5,False
+745,American,Konbon,Expensive,Soho,17:11,11:30,2,False
+746,American,Torrisi,Cheap,Soho,5:37,10:16,5,True
+747,Mexican,Torrisi,Cheap,Soho,16:37,21:31,5,True
+748,Thai,Up Thai,Cheap,Soho,23:54,11:05,1,False
+749,Chinese,Ippudo,Expensive,Little Italy,17:23,2:03,4,False
+750,Mexican,Ruby's,Medium,East Village,3:17,1:16,4,False
+751,Chinese,Golden Wuish,Cheap,Gramercy,22:16,9:09,2,False
+752,Japanese,Mamo,Expensive,Little Italy,11:22,20:50,3,False
+753,Chinese,Konbon,Medium,Hell's Kitchen,5:54,14:13,4,True
+754,Thai,Au Cheval,Cheap,Hell's Kitchen,20:14,16:54,3,False
+755,Thai,Carbone,Expensive,Lower East Side,18:31,8:16,5,True
+756,Mexican,Ippudo,Medium,Hell's Kitchen,4:46,18:29,4,True
+757,Thai,Mamo,Medium,Little Italy,4:57,6:20,4,False
+758,Korean,Take 31,Medium,Upper East Side,2:40,5:41,3,False
+759,French,ABC Kitchen,Expensive,Little Italy,20:02,0:51,4,True
+760,American,Cha Long,Medium,Hell's Kitchen,18:10,23:18,1,True
+761,Mexican,Take 31,Cheap,Little Italy,6:35,22:22,4,False
+762,Mexican,Mamo,Cheap,Soho,8:57,20:57,3,False
+763,Japanese,Sadelle's,Expensive,Midtown East,18:41,17:14,3,True
+764,Thai,Dig,Cheap,East Village,7:20,0:45,2,False
+765,Chinese,Dudley's,Cheap,Upper East Side,10:57,15:33,1,False
+766,Thai,Konbon,Medium,Midtown East,11:08,11:26,3,True
+767,Mexican,Mareluna,Expensive,Upper West Side,22:46,8:14,2,False
+768,Thai,Dig,Cheap,Midtown East,9:56,20:41,5,True
+769,American,Sonnyboy,Cheap,Midtown East,5:54,0:19,3,True
+770,Mexican,ABC Kitchen,Expensive,Greenwich Village,7:34,12:44,4,True
+771,Chinese,Palma,Cheap,Little Italy,10:36,14:31,2,False
+772,Japanese,Nemesis,Cheap,Hell's Kitchen,2:14,14:20,3,True
+773,Mexican,Che Li,Medium,Gramercy,15:53,5:49,5,False
+774,French,Sonnyboy,Expensive,Greenwich Village,1:25,22:38,5,True
+775,Thai,Sonnyboy,Medium,Upper West Side,15:48,0:11,4,True
+776,Thai,Tatiana,Medium,Greenwich Village,17:39,19:03,3,True
+777,Mexican,Au Cheval,Cheap,Tribeca,22:51,20:04,2,True
+778,Mexican,Gramercy Tavern,Expensive,Chinatown,9:11,16:05,1,False
+779,Japanese,Up Thai,Medium,Lower East Side,2:32,21:14,1,True
+780,Chinese,Mamo,Cheap,Midtown East,19:53,6:25,1,True
+781,Chinese,Mareluna,Medium,Hell's Kitchen,3:21,3:49,4,False
+782,Chinese,Chipotle,Expensive,Lower East Side,7:48,15:32,4,True
+783,Korean,Mareluna,Expensive,Hell's Kitchen,7:00,14:58,1,False
+784,Italian,Golden Wuish,Cheap,Hell's Kitchen,21:08,16:49,2,False
+785,Mexican,Mamo,Expensive,Gramercy,8:29,9:10,1,False
+786,Chinese,Chipotle,Medium,Financial District,2:27,19:20,5,True
+787,Chinese,Tatiana,Expensive,Financial District,19:56,14:03,3,True
+788,Japanese,Dudley's,Cheap,Chelsea,13:13,7:01,2,False
+789,Italian,Au Cheval,Expensive,Lower East Side,4:31,23:12,1,False
+790,Italian,Che Li,Cheap,Soho,6:36,13:41,1,False
+791,French,Cha Long,Medium,Chinatown,6:20,8:15,1,True
+792,Italian,Sonnyboy,Cheap,Upper West Side,1:30,14:13,2,True
+793,Korean,Dig,Cheap,East Village,6:03,20:54,4,True
+794,French,Che Li,Medium,Soho,6:12,23:21,4,True
+795,Japanese,ABC Kitchen,Cheap,East Village,3:19,5:42,4,False
+796,Thai,Five Guys,Cheap,Midtown East,3:58,0:38,2,True
+797,Japanese,Raku,Expensive,Midtown East,2:32,7:14,4,False
+798,French,Dudley's,Medium,Chelsea,2:34,14:21,2,True
+799,Mexican,Raku,Medium,Little Italy,11:51,10:14,3,True
+800,French,Sadelle's,Expensive,Hell's Kitchen,3:14,18:20,3,False
+801,Thai,ABC Kitchen,Medium,Financial District,8:34,11:15,3,True
+802,Thai,Take 31,Medium,East Village,2:07,7:51,2,True
+803,Italian,Five Guys,Cheap,Upper East Side,5:07,12:05,3,True
+804,Korean,Raku,Medium,Tribeca,8:30,16:44,1,False
+805,Japanese,Carbone,Cheap,Chelsea,11:36,7:26,5,False
+806,American,Gramercy Tavern,Cheap,Gramercy,4:48,16:48,3,False
+807,Japanese,Dig,Medium,Greenwich Village,21:36,8:45,3,False
+808,American,Palma,Expensive,Hell's Kitchen,4:05,22:22,4,True
+809,French,Konbon,Medium,Hell's Kitchen,19:43,8:09,2,True
+810,Japanese,Carbone,Cheap,Hell's Kitchen,6:10,5:00,3,True
+811,Japanese,Dig,Medium,Financial District,11:40,13:47,4,True
+812,American,Five Guys,Expensive,Little Italy,3:05,16:45,4,False
+813,Chinese,Torrisi,Cheap,Midtown East,15:02,17:56,2,False
+814,Italian,The Modern,Medium,Upper West Side,10:27,0:00,2,False
+815,French,The Modern,Cheap,Midtown East,20:59,1:53,5,True
+816,French,Fish Cheeks,Medium,Hell's Kitchen,15:50,18:07,1,True
+817,Chinese,Konbon,Cheap,Financial District,5:44,12:16,4,False
+818,Mexican,Nemesis,Medium,Chinatown,6:57,16:44,1,False
+819,Chinese,Au Cheval,Expensive,Upper West Side,15:48,1:49,5,True
+820,Chinese,Che Li,Expensive,Little Italy,1:10,7:22,2,False
+821,Italian,Tatiana,Cheap,Hell's Kitchen,0:10,5:32,3,False
+822,American,Cha Long,Medium,Greenwich Village,9:37,17:33,5,False
+823,Mexican,The Modern,Cheap,Financial District,4:55,22:34,2,False
+824,Mexican,Carbone,Expensive,Chinatown,15:05,0:31,1,False
+825,Japanese,Up Thai,Cheap,Gramercy,3:54,10:12,1,False
+826,Chinese,Golden Wuish,Cheap,Greenwich Village,9:17,4:33,2,True
+827,Chinese,Five Guys,Cheap,Upper East Side,16:24,17:40,3,False
+828,Korean,Ippudo,Medium,Chelsea,21:29,20:28,5,False
+829,Japanese,Tatiana,Medium,East Village,18:48,7:25,2,True
+830,Japanese,Golden Wuish,Cheap,Lower East Side,1:17,11:30,2,False
+831,Japanese,Mamo,Expensive,Chelsea,16:54,14:06,4,False
+832,Mexican,Cha Long,Expensive,Tribeca,14:06,6:05,5,True
+833,American,ABC Kitchen,Medium,Soho,17:16,4:58,1,True
+834,Italian,Che Li,Medium,Little Italy,21:38,19:02,3,False
+835,Italian,Che Li,Expensive,Lower East Side,6:04,2:31,4,True
+836,Korean,Chipotle,Expensive,Gramercy,0:52,0:26,4,True
+837,French,Au Cheval,Medium,East Village,19:11,4:54,2,True
+838,American,Carbone,Medium,Chelsea,11:41,14:01,1,False
+839,Korean,Golden Wuish,Expensive,Upper East Side,1:29,0:09,5,False
+840,Japanese,Fish Cheeks,Medium,East Village,11:33,5:23,5,False
+841,Chinese,Dig,Expensive,East Village,1:22,1:27,2,False
+842,Italian,Chipotle,Expensive,Greenwich Village,7:39,14:39,4,False
+843,Japanese,Gramercy Tavern,Expensive,Lower East Side,14:19,12:14,2,False
+844,Korean,Fish Cheeks,Cheap,Chelsea,13:54,15:23,2,True
+845,Chinese,Dig,Cheap,East Village,18:13,6:30,2,False
+846,Chinese,Gramercy Tavern,Expensive,Tribeca,4:36,2:42,5,True
+847,Japanese,Au Cheval,Medium,Midtown East,8:16,16:16,3,True
+848,Chinese,Che Li,Medium,Upper East Side,17:36,15:42,2,True
+849,Korean,Konbon,Cheap,Chelsea,20:07,10:19,4,True
+850,French,Che Li,Medium,Gramercy,11:29,2:38,4,False
+851,Thai,Raku,Medium,Upper East Side,19:01,0:48,5,True
+852,Chinese,Gramercy Tavern,Expensive,Chelsea,10:52,5:43,5,False
+853,Italian,Sonnyboy,Medium,Upper East Side,7:14,4:05,1,True
+854,Chinese,Dig,Cheap,Upper West Side,12:46,11:00,4,False
+855,Mexican,Gramercy Tavern,Medium,Upper East Side,7:25,22:33,1,False
+856,Italian,Sonnyboy,Cheap,Gramercy,23:41,10:21,2,True
+857,American,Ruby's,Medium,Gramercy,7:44,9:44,4,True
+858,Korean,Nemesis,Medium,Chinatown,14:41,15:10,2,False
+859,American,Au Cheval,Expensive,Lower East Side,13:22,22:28,1,False
+860,Japanese,Torrisi,Expensive,Soho,2:28,12:12,5,True
+861,American,Up Thai,Medium,Upper West Side,5:09,21:04,5,True
+862,Japanese,Carbone,Expensive,East Village,19:08,23:12,4,True
+863,Korean,ABC Kitchen,Medium,Tribeca,8:39,22:15,3,False
+864,Japanese,Raku,Expensive,Lower East Side,15:50,21:08,4,True
+865,Mexican,Chipotle,Cheap,Soho,22:58,16:48,4,False
+866,Korean,Raku,Medium,Tribeca,18:34,9:54,2,False
+867,Korean,Take 31,Expensive,Chelsea,10:24,19:26,2,True
+868,Chinese,Five Guys,Medium,Little Italy,12:16,5:28,5,True
+869,French,The Modern,Expensive,Chelsea,20:25,7:44,4,False
+870,Thai,Sadelle's,Expensive,Financial District,0:35,22:06,5,False
+871,Korean,Fish Cheeks,Expensive,Chinatown,20:53,14:42,5,False
+872,Japanese,Che Li,Cheap,Chinatown,4:29,11:34,1,False
+873,Italian,Chipotle,Cheap,Chelsea,12:24,17:10,3,False
+874,Mexican,Golden Wuish,Expensive,Little Italy,12:51,8:08,1,False
+875,Chinese,Mareluna,Expensive,Upper West Side,20:49,15:33,2,True
+876,Thai,Dudley's,Expensive,East Village,20:33,3:38,3,True
+877,Italian,Au Cheval,Medium,East Village,18:59,0:08,3,True
+878,Thai,Konbon,Expensive,Little Italy,12:36,15:59,4,True
+879,American,Sadelle's,Cheap,Soho,11:44,3:21,4,True
+880,Italian,Palma,Expensive,Little Italy,22:18,4:05,3,False
+881,American,Take 31,Cheap,Soho,14:00,13:39,4,True
+882,Mexican,Konbon,Expensive,Little Italy,23:52,10:34,3,True
+883,Korean,Raku,Medium,Chinatown,1:52,4:35,3,False
+884,Japanese,Sadelle's,Cheap,Hell's Kitchen,2:31,20:43,2,False
+885,American,Mamo,Cheap,Hell's Kitchen,0:15,1:17,3,True
+886,French,Raku,Medium,Financial District,1:38,9:34,3,True
+887,French,Gramercy Tavern,Medium,Hell's Kitchen,21:17,4:12,2,False
+888,American,Dudley's,Medium,Chinatown,19:01,14:21,5,False
+889,Mexican,Nemesis,Medium,Upper East Side,16:31,7:32,4,False
+890,Japanese,Mareluna,Cheap,Upper West Side,16:46,2:15,2,True
+891,Thai,Sonnyboy,Medium,Tribeca,19:34,18:19,4,True
+892,Japanese,Palma,Medium,Midtown East,4:54,22:19,4,True
+893,French,Nemesis,Expensive,Upper East Side,1:16,8:06,2,False
+894,Japanese,Dig,Expensive,Upper East Side,14:27,15:15,4,True
+895,American,Dudley's,Cheap,Greenwich Village,12:57,8:47,3,False
+896,Japanese,Ruby's,Cheap,Upper West Side,23:21,13:21,1,True
+897,Japanese,Sadelle's,Cheap,Greenwich Village,3:27,19:40,5,True
+898,Thai,Dudley's,Medium,Tribeca,4:22,12:41,4,True
+899,Chinese,Golden Wuish,Medium,East Village,17:07,4:53,5,False
+900,Thai,Ippudo,Cheap,Soho,21:29,4:11,5,False
+901,Japanese,ABC Kitchen,Expensive,Chelsea,15:09,14:36,2,False
+902,American,Mamo,Cheap,Midtown East,0:32,6:38,5,True
+903,Japanese,Five Guys,Cheap,Soho,11:12,8:50,4,False
+904,Mexican,Raku,Cheap,Tribeca,10:34,1:24,1,False
+905,Korean,Che Li,Cheap,Upper East Side,14:56,14:45,1,False
+906,Korean,Ruby's,Cheap,Midtown East,16:35,21:10,5,False
+907,Chinese,Sadelle's,Cheap,Soho,4:37,8:29,4,False
+908,American,Tatiana,Medium,Hell's Kitchen,3:26,1:01,1,True
+909,Mexican,Five Guys,Expensive,Midtown East,16:41,16:55,1,False
+910,Chinese,Fish Cheeks,Medium,Hell's Kitchen,2:50,13:23,2,True
+911,Japanese,Ruby's,Expensive,Chinatown,14:59,17:19,4,False
+912,American,Ruby's,Medium,Hell's Kitchen,1:47,20:01,3,True
+913,Korean,Ruby's,Expensive,East Village,1:27,16:56,3,True
+914,Thai,Golden Wuish,Cheap,Upper East Side,6:42,7:48,2,False
+915,Thai,Chipotle,Cheap,Tribeca,8:15,22:05,1,False
+916,Japanese,Gramercy Tavern,Cheap,Midtown East,5:51,0:58,4,True
+917,American,Five Guys,Medium,Soho,22:28,21:23,2,True
+918,French,Ippudo,Expensive,East Village,19:06,12:20,2,True
+919,Japanese,Dig,Medium,Little Italy,17:55,19:20,3,False
+920,Korean,Tatiana,Medium,Lower East Side,15:38,7:49,5,False
+921,Chinese,Fish Cheeks,Cheap,Chinatown,13:28,3:58,5,False
+922,Mexican,Cha Long,Medium,Midtown East,6:24,15:18,5,False
+923,Japanese,Gramercy Tavern,Expensive,Chelsea,7:10,8:49,2,False
+924,Thai,Dudley's,Cheap,Upper East Side,7:14,17:17,3,False
+925,French,Mareluna,Expensive,Chelsea,5:41,4:52,5,True
+926,Thai,Palma,Expensive,East Village,15:14,5:38,2,False
+927,Chinese,Dudley's,Expensive,Lower East Side,6:49,13:18,5,False
+928,French,Mamo,Expensive,Chinatown,17:48,6:10,3,False
+929,American,Up Thai,Expensive,Upper East Side,8:00,9:20,1,True
+930,Mexican,Up Thai,Cheap,Lower East Side,23:21,23:54,5,True
+931,French,Mareluna,Cheap,Midtown East,3:24,16:10,5,True
+932,Korean,Ruby's,Cheap,Greenwich Village,11:00,22:17,4,True
+933,Japanese,Raku,Expensive,East Village,15:16,13:37,2,True
+934,Mexican,Fish Cheeks,Medium,Financial District,22:22,16:29,1,False
+935,Chinese,Torrisi,Medium,Chinatown,10:08,15:30,3,True
+936,Thai,Golden Wuish,Medium,Little Italy,16:12,17:24,2,True
+937,Chinese,Nemesis,Expensive,Hell's Kitchen,1:05,5:54,5,False
+938,Italian,Gramercy Tavern,Expensive,Hell's Kitchen,3:29,22:50,5,False
+939,Mexican,Che Li,Cheap,Little Italy,11:55,21:19,3,True
+940,Thai,Gramercy Tavern,Medium,Financial District,17:38,3:04,1,False
+941,Japanese,Golden Wuish,Expensive,Upper West Side,18:53,13:25,2,False
+942,Mexican,Dudley's,Expensive,East Village,14:50,22:48,2,True
+943,American,Dig,Expensive,Chelsea,21:50,11:37,3,True
+944,Italian,Cha Long,Medium,Soho,12:55,10:42,5,False
+945,Mexican,ABC Kitchen,Medium,Chelsea,22:16,5:01,3,True
+946,French,Carbone,Medium,Greenwich Village,16:15,8:05,2,True
+947,Thai,Raku,Cheap,Midtown East,23:08,2:47,1,False
+948,Thai,Sadelle's,Cheap,Gramercy,1:27,21:06,5,False
+949,Korean,Torrisi,Medium,Chelsea,3:26,22:54,3,True
+950,French,The Modern,Cheap,Little Italy,13:06,17:07,3,False
+951,Japanese,Ruby's,Expensive,Gramercy,11:28,7:05,5,False
+952,Chinese,Fish Cheeks,Cheap,Midtown East,14:43,18:08,1,False
+953,Japanese,Au Cheval,Medium,Soho,14:04,4:54,3,False
+954,American,Five Guys,Medium,Hell's Kitchen,0:08,22:24,5,True
+955,Japanese,Nemesis,Expensive,Chelsea,22:46,15:06,1,False
+956,Chinese,Golden Wuish,Cheap,Upper East Side,0:05,12:21,1,False
+957,Japanese,The Modern,Cheap,Gramercy,7:59,18:49,4,False
+958,Korean,Take 31,Expensive,Lower East Side,18:47,16:45,3,False
+959,Japanese,Gramercy Tavern,Expensive,Financial District,13:28,18:49,1,True
+960,Korean,Five Guys,Medium,Hell's Kitchen,12:44,14:48,2,True
+961,Chinese,Up Thai,Expensive,Financial District,12:03,6:51,2,True
+962,Chinese,Sonnyboy,Expensive,Gramercy,16:46,3:27,1,False
+963,Japanese,Fish Cheeks,Expensive,Financial District,23:16,7:52,2,True
+964,Italian,Fish Cheeks,Medium,Gramercy,13:49,2:10,4,True
+965,Thai,Ruby's,Medium,Chinatown,21:50,22:45,4,True
+966,Japanese,Nemesis,Cheap,Upper East Side,3:38,1:58,4,True
+967,Italian,Tatiana,Medium,Chinatown,20:43,2:49,5,True
+968,Thai,Five Guys,Medium,Soho,10:32,12:03,3,True
+969,American,Fish Cheeks,Expensive,Tribeca,9:03,9:43,1,False
+970,French,Up Thai,Expensive,Lower East Side,13:38,3:40,5,False
+971,Mexican,Torrisi,Expensive,Upper West Side,16:01,1:25,4,False
+972,Italian,Ruby's,Medium,Greenwich Village,5:39,9:22,2,True
+973,French,Palma,Cheap,East Village,8:41,4:45,3,False
+974,Japanese,Gramercy Tavern,Cheap,Financial District,21:53,22:32,2,True
+975,Chinese,Dudley's,Expensive,Chelsea,13:37,14:12,5,False
+976,French,Mamo,Expensive,Little Italy,6:55,8:04,4,False
+977,Japanese,Gramercy Tavern,Expensive,Greenwich Village,19:59,21:31,3,True
+978,American,Au Cheval,Medium,Gramercy,0:01,18:04,1,False
+979,French,Chipotle,Medium,Chinatown,0:10,3:26,5,True
+980,American,Raku,Medium,Financial District,18:14,11:05,3,True
+981,French,Cha Long,Medium,Upper West Side,1:53,21:04,1,False
+982,American,Sonnyboy,Expensive,Financial District,9:14,8:15,5,False
+983,Mexican,Take 31,Cheap,East Village,8:38,18:54,2,True
+984,Italian,Raku,Cheap,Hell's Kitchen,22:21,18:47,1,True
+985,Chinese,Golden Wuish,Cheap,Soho,5:01,0:47,1,False
+986,Japanese,Dudley's,Expensive,Financial District,12:47,0:23,1,True
+987,Mexican,Golden Wuish,Cheap,Gramercy,3:16,16:03,2,True
+988,American,Che Li,Cheap,Gramercy,11:40,12:37,4,True
+989,Thai,Dig,Medium,Lower East Side,15:06,3:21,4,True
+990,French,ABC Kitchen,Cheap,Greenwich Village,12:45,13:38,5,True
+991,Mexican,Mareluna,Medium,East Village,21:11,8:20,1,False
+992,American,Konbon,Expensive,Chinatown,12:44,6:46,3,False
+993,Thai,Mareluna,Medium,Financial District,6:22,6:18,1,False
+994,Korean,Nemesis,Medium,Chelsea,17:15,11:06,4,False
+995,Korean,Au Cheval,Cheap,Upper East Side,18:48,4:04,4,True
+996,French,Raku,Expensive,Midtown East,14:20,2:50,3,True
+997,Italian,Raku,Expensive,Gramercy,1:33,17:05,2,True
+998,Thai,Palma,Expensive,East Village,23:36,14:32,4,False
+999,Mexican,Konbon,Cheap,Chinatown,5:19,1:03,1,True
+1000,French,ABC Kitchen,Expensive,Little Italy,14:22,1:46,1,True
