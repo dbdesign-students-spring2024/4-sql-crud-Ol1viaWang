@@ -43,7 +43,7 @@ create table reviews (
 );
 ```
 
-### Import the data
+### Practice Data (Import the data)
 
 In my computer, I use the command _.import /Users/leyiwang/Desktop/4-sql-crud-Ol1viaWang/data/restaurants.csv restaurants --skip 1_ to import the data [restaurants](./data/restaurants.csv)
 
