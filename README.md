@@ -61,6 +61,7 @@ SELECT * FROM restaurants WHERE Price_tier = 'Cheap' AND Neighborhood = 'Soho';
 ```
 
 > **Results**: 
+
 | Restaurant_id | Category | Name          | Price_tier | Neighborhood | Opening_hours | Closing_hours | Average_rating | Good_for_kids |
 |---------------|----------|---------------|------------|--------------|---------------|---------------|----------------|---------------|
 | 37            | Italian  | Ruby's        | Cheap      | Soho         | 1:20          | 10:28         | 1              | True          |
@@ -124,6 +125,7 @@ SELECT Neighborhood, COUNT(*) AS number_of_restaurants FROM restaurants GROUP BY
 ```
 
 > **Results**: 
+
 | Neighborhood        | Number of Restaurants |
 |---------------------|-----------------------|
 | Chelsea             | 33                    |
