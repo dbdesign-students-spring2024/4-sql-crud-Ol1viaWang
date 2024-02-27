@@ -79,6 +79,7 @@ SELECT * FROM restaurants WHERE category = 'Chinese' AND Average_rating >= 3 ORD
 ```
 
 > **Results**: 
+
 | Restaurant_id | Category | Name            | Price_tier | Neighborhood       | Opening_hours | Closing_hours | Average_rating | Good_for_kids |
 |---------------|----------|-----------------|------------|--------------------|---------------|---------------|----------------|---------------|
 | 93            | Chinese  | Au Cheval       | Cheap      | East Village       | 7:01          | 10:14         | 5              | True          |
@@ -96,6 +97,7 @@ SELECT * FROM restaurants WHERE strftime('%H:%M', 'now') BETWEEN Opening_hours A
 ```
 
 > **Results**: 
+
 | Restaurant_id | Category | Name      | Price_tier | Neighborhood     | Opening_hours | Closing_hours | Average_rating | Good_for_kids |
 |---------------|----------|-----------|------------|------------------|---------------|---------------|----------------|---------------|
 | 4             | French   | Raku      | Expensive  | Chelsea          | 12:34         | 23:14         | 4              | False         |
@@ -148,9 +150,9 @@ SELECT Neighborhood, COUNT(*) AS number_of_restaurants FROM restaurants GROUP BY
 ### Create users table
 
 - **User_id** : An integer holds the unique identifier of each user
-- **Email**
-- **Password**
-- **Handle (i.e. username)**
+- **Email** : Each user has his/her own unique email
+- **Password** : Each user has his/her own unique password
+- **Username** : Each user has his/her own unique username
 
 ```sql
 create table users (
@@ -248,6 +250,7 @@ FROM posts WHERE Visible = 1 ORDER BY sortable_date DESC LIMIT 10;
 ```
 
 > **Results**: 
+
 | Post_id | User_id | Recipient_id | Content                                                                 | Type_is | Visible | Created_at |
 |---------|---------|--------------|-------------------------------------------------------------------------|---------|
 --------|------------|
@@ -269,6 +272,7 @@ SELECT * FROM posts WHERE User_id = 745  AND Recipient_id = 495 AND Type_is = 'M
 ```
 
 > **Results**:
+
 | Post_id | User_id | Recipient_id | Content                          | Type_is | Visible | Created_at |
 |---------|---------|--------------|----------------------------------|---------|---------|------------|
 | 667     | 745     | 495          | quam pharetra magna ac consequat | Message | 1       | 2/12/2024  |
@@ -309,6 +313,7 @@ FROM posts WHERE Visible = 0 ORDER BY sortable_date DESC;
 ```
 
  > **Results**:
+
 | Post_id | User_id | Recipient_id | Content                                                        | Type_is | Visible | Created_at |
 |---------|---------|--------------|----------------------------------------------------------------|---------|---------|------------|
 | 39      | 986     | 54           | lectus in est risus auctor sed tristique in tempus sit         | Message | 0       | 2024-02-25 |
@@ -325,6 +330,7 @@ These are the first 5 rows of invisible Messages and Stories in order of recency
 SELECT User_id, COUNT(*) as number_of_posts FROM posts GROUP BY User_id;
 ```
 > **Results**:
+
 | User_id | number_of_posts |
 |---------|-----------------|
 | 1       | 3               |
@@ -361,6 +367,7 @@ WHERE
 ```
 
 > **Results**:
+
 | Post_Text          | User_Email                  |
 |--------------------|-----------------------------|
 | hello              | kdurn0@istockphoto.com      |
@@ -373,6 +380,7 @@ SELECT Email FROM Users WHERE User_id NOT IN (SELECT DISTINCT User_id FROM posts
 ```
 
 > **Results**:
+
 | Email Address                  |
 |--------------------------------|
 | npeetersa@bing.com             |
