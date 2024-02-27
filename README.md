@@ -230,7 +230,7 @@ Since my posts.csv use MM/DD/YY to represent the created date, which can't be re
 - The command -- '0' || -- prefixes the month value with 0 ahead to make sure that the month value has two digits
 - The command -- substr(..., -2) -- guarantees that I always take the last two digits of the month value if there are three characters after adding 0 before
 - The command -- instr(Created_at, '/') + 1 -- gets the day value through reading from the first slash 
-- The command -- instr(substr(Created_at, instr(Created_at, '/') + 1), '/') - 1 -- lets me to stop at the second slash (For example, for date 2/26/24, I read from 2 and stops at the second slash, obtaining 26)
+- The command -- instr(substr(Created_at, instr(Created_at, '/') + 1), '/') - 1 -- lets me stop at the second slash (For example, for date 2/26/24, I read from 2 and stop at the second slash, obtaining 26)
 - The command -- '0' || -- prefixes the day value with 0 ahead to make sure that the day value has two digits 
 - The command -- substr(..., -2) -- guarantees that I always take the last two digits of the day value if there are three characters after adding 0 before
 - I use "-" to concatenate all parts above to form YYYY-MM-DD
@@ -252,8 +252,7 @@ FROM posts WHERE Visible = 1 ORDER BY sortable_date DESC LIMIT 10;
 > **Results**: 
 
 | Post_id | User_id | Recipient_id | Content                                                                 | Type_is | Visible | Created_at |
-|---------|---------|--------------|-------------------------------------------------------------------------|---------|
---------|------------|
+|---------|---------|--------------|-------------------------------------------------------------------------|---------|---------|------------|
 | 2001    | 1       | 2            | hello                                                                   | Message | 1       | 2024-02-26 |
 | 2002    | 3       |              | Nice to meet you                                                        | Story   | 1       | 2024-02-26 |
 | 113     | 141     | 437          | non sodales sed tincidunt eu felis fusce posuere felis                  | Message | 1       | 2024-02-25 |
